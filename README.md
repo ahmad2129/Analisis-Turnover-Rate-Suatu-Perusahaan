@@ -82,7 +82,7 @@ Dashboard interaktif dibuat di Excel dengan slicer **ExitDate (timeline)**, **Em
 - Turnover berdasarkan klasifikasi usia dan gender
 - Turnover berdasarkan performance score dan title
 
-> 📊 [Dashboard]([images/dashboard.png](https://github.com/ahmad2129/Analisis-Turnover-Rate-Suatu-Perusahaan/blob/main/dashboard/Dashboard%20Excel.png))
+> 📊 [Dashboard](https://github.com/ahmad2129/Analisis-Turnover-Rate-Suatu-Perusahaan/blob/main/dashboard/Dashboard%20Excel.png)
 
 ## 📊 Presentasi Project
 Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentasi berikut:
